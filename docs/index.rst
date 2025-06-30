@@ -3,11 +3,11 @@ How to Login Your Zoho Mail Account Securely?
 
 Zoho Mail has grown into one of the most trusted platforms for personal and professional email communication. With its ad-free interface, robust features, and integration with Zoho's broader suite of tools, users value it for both simplicity and security. But like all online services, protecting your email account from unauthorized access is essential. Whether you’re new to the platform or a long-time user, understanding how to log in securely and manage your account properly is key to ensuring your Zoho experience remains smooth and safe.
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://aclogportal.com/zoho-login
 
 
 This guide covers secure sign-in steps, tips to safeguard your zoho mail login account, how to troubleshoot common issues, and when to contact zoho mail customer service or zoho mail customer support.
