@@ -1,4 +1,4 @@
-project = 'ZOHO'
+project = 'Zoho Login Account'
 author = 'Your Name'
 release = '1.0'
 
